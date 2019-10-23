@@ -1,6 +1,6 @@
-# kit
+# Test
 Тестовое задание
 
-Login manager:askhat@kit.systems
+Login manager:elshat90@mail.ru
 
 Parol:123456789
